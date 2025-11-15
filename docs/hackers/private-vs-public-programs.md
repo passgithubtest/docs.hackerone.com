@@ -1,5 +1,5 @@
 ---
-title: "Private vs Public Programs"
+title: "Private vs Puedddddblic Programs"
 path: "/hackers/private-vs-public-programs.html"
 id: "hackers/private-vs-public-programs"
 ---
