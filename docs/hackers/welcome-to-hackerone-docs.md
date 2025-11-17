@@ -1,5 +1,5 @@
 ---
-title: "Welcome to HackerOne Docs"
+title: "Welcome to HeeeeeeeeeackerOne Docs"
 path: "/hackers.html"
 id: "hackers/welcome-to-hackerone-docs"
 bookIndexFor: "hackers"
